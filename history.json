@@ -8,13 +8,27 @@
       "title": "Приветственный пост и знакомство",
       "text": "🤝 Братва, давайте знакомиться — кто из какого района Екатеринбурга, пишите в комменты!",
       "published_at": "2026-11-12T15:50:10.337261+00:00"
+    },
+    {
+      "slot": "2026-11-12-27",
+      "post_id": 2,
+      "source": "Google Новости",
+      "title": "В Екатеринбурге больше чем вдвое урезали планы жилищного строительства возле парка Маяковского - Всеостройке.рф",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTTNWeUhZNW1tdE00WWZweU1wU2lST1NEczV2TndOckJRTEtVcUVkeDRqY0pxX2t4d3Y4allNRm16cFgzNmZja1h3UEFMcGN0Rjd0WXh0RXFqM0ZGZlp6N0lNWFgxT0x1Q2RoUGE2QTlXTU5oY3pWcmVTSnkxNFRmLUF3dm1iVE5uaTlodXp6N0t3NGpnTm42WjNZTE5sZndwakJjZVhXMkZqeXV0NU1NdGhTY19rTlVhbXlGZTNSeTIxX0hEUVBRWWRTUlhwc0k?oc=5",
+      "text": "🏙️ Родные, в Екатеринбурге больше чем вдвое урезали планы жилищного строительства возле парка Маяковского.",
+      "published_at": "2026-11-12T16:40:18.086956+00:00"
     }
   ],
-  "used_links": [],
+  "used_links": [
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTTNWeUhZNW1tdE00WWZweU1wU2lST1NEczV2TndOckJRTEtVcUVkeDRqY0pxX2t4d3Y4allNRm16cFgzNmZja1h3UEFMcGN0Rjd0WXh0RXFqM0ZGZlp6N0lNWFgxT0x1Q2RoUGE2QTlXTU5oY3pWcmVTSnkxNFRmLUF3dm1iVE5uaTlodXp6N0t3NGpnTm42WjNZTE5sZndwakJjZVhXMkZqeXV0NU1NdGhTY19rTlVhbXlGZTNSeTIxX0hEUVBRWWRTUlhwc0k"
+  ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
     "#ЕкатеринбургЗнакомимся",
-    "#ЕкатеринбургНашЧат"
+    "#ЕкатеринбургНашЧат",
+    "#ЕкатеринбургГород",
+    "#ЕкатеринбургНашГород",
+    "#ЕкатеринбургГородскаяЖизнь"
   ],
   "skipped_links": []
 }
