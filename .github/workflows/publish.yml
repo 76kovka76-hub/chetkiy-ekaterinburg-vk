@@ -23,7 +23,7 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-      - name: Run 17 free bot tests
+      - name: Run 18 free bot tests
         run: python -m unittest -v test_bot.py
       - name: Check whether VK token exists
         if: github.event_name == 'workflow_dispatch'
