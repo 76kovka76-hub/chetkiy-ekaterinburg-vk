@@ -21,3 +21,7 @@ jobs:
           python-version: "3.12"
       - name: Run 17 unit tests without network or VK token
         run: python -m unittest -v test_bot.py
+      - name: Preview an actual EKB news story or local game (never publish)
+        env:
+          DRY_RUN: "true"
+        run: python main.py
