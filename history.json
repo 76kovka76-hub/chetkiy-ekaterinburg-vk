@@ -62,6 +62,15 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zU2Noc3Y4a2FpbUdTam9pclJOT3BKV1A0UVhkcXh3cFRHTlhnZGZyZmFmeDJhQ1B4LUhIbXZZeDN5QUtESlk4c0JhcDJWMnZwVkZwalVR?oc=5",
       "text": "🏙️ Городские, Екатерина Болтунова и Антон Лаптев выступили на конференции в Екатеринбурге.",
       "published_at": "2026-11-12T21:19:12.906296+00:00"
+    },
+    {
+      "slot": "2026-11-13-03",
+      "post_id": 8,
+      "source": "Google Новости",
+      "title": "Жидким реагентом будут бороться с черным льдом ДЭУ Екатеринбурга - JustMedia.ru",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlpfX1pvcGJUUlZTVlNmUl9NRHpCenBqbkhVRVJScUtBUUctcWcwWDNIU1lyb1Vrd2JiMHhZZ2x6dXVib1NMdGVTTVo2bVduVnhyM1NiN0hHaWdKZDMyMER5UV8yaGJ5MjRXWXdwRjNfellBQkNhLXJqRHZxSDk4QW1aNHVDVUJoX2ZjU0FCN21ZeFl0Q01mSnFxRUdYX1J6ME15bG5fYw?oc=5",
+      "text": "🏙️ Народ, Жидким реагентом будут бороться с черным льдом ДЭУ Екатеринбурга.",
+      "published_at": "2026-11-12T22:09:58.191549+00:00"
     }
   ],
   "used_links": [
@@ -70,7 +79,8 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yMjN5WXJnQjl5djZheWVCX2VMSXFiSVU2cmF6bjU1NE00REJ0Qmo1eGJ2Vm9DZWFMY21RSkFGV2ZkZWxZc25RVzNDeE9mMFpBR1ZJLVI2V0JfYmdZWTJQQ1pmVFBPMkNodVlkc191UFY",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYUNCemFHSUU3d0pFVjVkQm8zU0F4VS05LXNqRXZlNHo5SWt6VWxZQjh4WlVRY3V1bXlCb0I1TVpoTzBQN2F2VFJxODRvdXdqaHEtMVFoM0dnRmdaMU4yY3QzSDg0QWUtYWdpREg3aFFJOGxuamJSeF80MGxHaTVncGwwRGFucTJRTkp5dGh2UGgxTGdUYnRlUTFELVp5ZFNESm5uVzZOUDZBZ2E2Ty1iSVZHZ3N5YS1B",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE5idmsySlUxQTdDclhLQkNwNnNjcHFZQWJXZ2t4TzZqc0J1OXhZR1d6b0F3MkRzQ2poMFJfM1l3cnIyUnc4Wk9zU1RyQjJxS2trUkVpV3ZpNmxQMHM5bGhMVXhGVTRicGRPNmMwbmctWWw",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zU2Noc3Y4a2FpbUdTam9pclJOT3BKV1A0UVhkcXh3cFRHTlhnZGZyZmFmeDJhQ1B4LUhIbXZZeDN5QUtESlk4c0JhcDJWMnZwVkZwalVR"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zU2Noc3Y4a2FpbUdTam9pclJOT3BKV1A0UVhkcXh3cFRHTlhnZGZyZmFmeDJhQ1B4LUhIbXZZeDN5QUtESlk4c0JhcDJWMnZwVkZwalVR",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlpfX1pvcGJUUlZTVlNmUl9NRHpCenBqbkhVRVJScUtBUUctcWcwWDNIU1lyb1Vrd2JiMHhZZ2x6dXVib1NMdGVTTVo2bVduVnhyM1NiN0hHaWdKZDMyMER5UV8yaGJ5MjRXWXdwRjNfellBQkNhLXJqRHZxSDk4QW1aNHVDVUJoX2ZjU0FCN21ZeFl0Q01mSnFxRUdYX1J6ME15bG5fYw"
   ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
@@ -93,7 +103,10 @@
     "#ЕкатеринбургГород_300848c033",
     "#ЕкатеринбургГород_316532ef7",
     "#ЕкатеринбургГород_316532ef72",
-    "#ЕкатеринбургГород_316532ef73"
+    "#ЕкатеринбургГород_316532ef73",
+    "#ЕкатеринбургГород_2aa42456a",
+    "#ЕкатеринбургГород_2aa42456a2",
+    "#ЕкатеринбургГород_2aa42456a3"
   ],
   "skipped_links": []
 }
