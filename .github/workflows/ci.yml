@@ -19,7 +19,7 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-      - name: Run 17 unit tests without network or VK token
+      - name: Run 18 unit tests without network or VK token
         run: python -m unittest -v test_bot.py
       - name: Preview an actual EKB news story or local game (never publish)
         env:
