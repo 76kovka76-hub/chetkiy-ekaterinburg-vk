@@ -32,14 +32,14 @@ jobs:
         shell: bash
         run: |
           if [[ -z "$EKATERINBURG_VK_TOKEN" ]]; then
-            echo "::warning::Missing EKATERINBURG_VK_TOKEN. Add it before enabling real posts."
-          else
-            echo "VK community token exists (value hidden)."
+            echo "::error::Missing EKATERINBURG_VK_TOKEN repository secret"
+            exit 1
           fi
-      - name: Preview fresh Ekaterinburg news or an engagement game
+          echo "VK community token exists (value hidden)."
+      - name: Publish fresh Ekaterinburg news or an engagement game
         env:
           EKATERINBURG_VK_TOKEN: ${{ secrets.EKATERINBURG_VK_TOKEN }}
-          DRY_RUN: "true"
+          DRY_RUN: "false"
         run: python main.py
       - name: Save posting history
         if: success()
