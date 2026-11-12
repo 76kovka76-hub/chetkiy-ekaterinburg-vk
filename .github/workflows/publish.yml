@@ -1,0 +1,54 @@
+name: Чёткий Екатеринбург — новости ВК
+
+on:
+  schedule:
+    - cron: "3-59/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chetkiy-ekaterinburg-vk-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 9
+    steps:
+      - name: Checkout Ekaterinburg repository
+        uses: actions/checkout@v5
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Run 17 free bot tests
+        run: python -m unittest -v test_bot.py
+      - name: Check whether VK token exists
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          EKATERINBURG_VK_TOKEN: ${{ secrets.EKATERINBURG_VK_TOKEN }}
+        shell: bash
+        run: |
+          if [[ -z "$EKATERINBURG_VK_TOKEN" ]]; then
+            echo "::warning::Missing EKATERINBURG_VK_TOKEN. Add it before enabling real posts."
+          else
+            echo "VK community token exists (value hidden)."
+          fi
+      - name: Preview fresh Ekaterinburg news or an engagement game
+        env:
+          EKATERINBURG_VK_TOKEN: ${{ secrets.EKATERINBURG_VK_TOKEN }}
+          DRY_RUN: "true"
+        run: python main.py
+      - name: Save posting history
+        if: success()
+        run: |
+          if [[ -n "$(git status --porcelain history.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add history.json
+            git commit -m "Update Ekaterinburg news publication history"
+            git pull --rebase
+            git push
+          fi
