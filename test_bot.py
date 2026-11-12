@@ -122,6 +122,16 @@ class NewsBotTests(unittest.TestCase):
         self.assertFalse(set(first["hashtags"]) & set(second["hashtags"]))
         self.assertIsNotNone(main.format_message(second, h))
 
+    def test_news_does_not_include_publisher_label_and_keeps_person_name(self):
+        item = {"title": "София Молчанова из Екатеринбурга завоевала золото чемпионата России по плаванию | ОТВ - Новости",
+                "link": "https://example.com/sport/ekb"}
+        draft = main.offline_draft(item, {"posts": [], "used_tags": []})
+        self.assertTrue(draft["publish"])
+        self.assertIn("София Молчанова", draft["sentence"])
+        self.assertNotIn("| ОТВ", draft["sentence"])
+        self.assertNotIn("Новости.", draft["sentence"])
+        self.assertIsNotNone(main.format_message(draft, {"used_tags": []}))
+
     def test_default_dry_run(self):
         self.assertTrue(main.DRY_RUN)
 
