@@ -28,12 +28,13 @@
 
 **ID группы уже указан в коде:** `243223597`. Отдельный `VK_GROUP_ID` создавать не нужно, а `YAROSLAVL_VK_TOKEN` здесь не используется.
 
-## Сначала тестируем
-- В [workflow](https://github.com/76kovka76-hub/chetkiy-ekaterinburg-vk/blob/main/.github/workflows/publish.yml) стоит `DRY_RUN: "true"`: **никаких настоящих публикаций в ВК**.
-- Запустите [Actions → Run workflow](https://github.com/76kovka76-hub/chetkiy-ekaterinburg-vk/actions/workflows/publish.yml). В логах будут тесты и пробный текст новости или интерактива. Если токен отсутствует, появится предупреждение.
-- Проверьте, что новости относятся к городу Екатеринбургу, а стиль и хэштеги устраивают.
-- После успешного теста и добавления секретного токена можно переключить `DRY_RUN` с `"true"` на `"false"` — новые запуски смогут публиковать. При первом реальном посте потребуется действительный токен ВК с достаточными правами.
-- Чтобы останавливать постинг, верните `DRY_RUN: "true"` или отключите workflow.
+## Статус: автоматическая публикация включена
+- В [основном workflow](https://github.com/76kovka76-hub/chetkiy-ekaterinburg-vk/blob/main/.github/workflows/publish.yml) установлено `DRY_RUN: "false"`. По расписанию бот может **публиковать реальные записи в ВК**.
+- [Безопасная проверка токена и RSS](https://github.com/76kovka76-hub/chetkiy-ekaterinburg-vk/actions/runs/43251443708): секрет `EKATERINBURG_VK_TOKEN` обнаружен, **18/18 тестов прошли**, RSS выдаёт новости Екатеринбурга.
+- Реальный доступ токена к `wall.post` подтвердится при первой успешной публикации: в журнале должна появиться строка `Опубликовано: <post_id>` или `Опубликована игра: <post_id>`.
+- Время Екатеринбурга — UTC+5; до 30 постов в сутки, из них не более 4 интерактивных. Запуск GitHub Actions примерно каждые 5 минут, возможны пропуски и задержки.
+- [Смотреть публикации в группе ВК](https://vk.ru/club243223597), [смотреть историю публикаций](https://github.com/76kovka76-hub/chetkiy-ekaterinburg-vk/blob/main/history.json), [запуски](https://github.com/76kovka76-hub/chetkiy-ekaterinburg-vk/actions/workflows/publish.yml).
+- Чтобы остановить публикации, замените `DRY_RUN: "false"` на `DRY_RUN: "true"` или отключите workflow в GitHub Actions.
 
 ## Ограничения
 - RSS-подборки Google News могут менять доступность. **На этом новом проекте их доступность и фактическая публикация ещё не проверены.**
