@@ -140,7 +140,7 @@ TOPICS = {
     "Город": ("благоустрой", "парк", "сквер", "площади", "набережн", "двор", "фонтан", "улиц"),
     "Цены": ("цен", "подорож", "подешев", "стоимост", "проезд", "тариф"),
     "Культура": ("фестивал", "концерт", "выстав", "театр", "музе", "праздник"),
-    "Спорт": ("спортив", "матч", "побед", "хоккей", "футбол", "волейбол", "соревнован"),
+    "Спорт": ("спортив", "матч", "побед", "хоккей", "футбол", "волейбол", "соревнован", "чемпионат", "плаван", "медал", "золото", "турнир"),
     "Образование": ("школ", "учител", "экзамен", "университет", "студент", "детсад"),
     "Происшествия": ("пожар", "полици", "спасател", "происшеств", "задержан", "преступлен"),
 }
@@ -162,7 +162,9 @@ BANNED = ("?", "!", "фото", "видео", "шок", "не поверите",
 def offline_draft(item, history):
     """Conservative RSS-title transformation: no invented facts or paid AI."""
     title = clean_text(item["title"])
-    # Strip common syndication source suffix, but preserve titles with meaningful dashes.
+    # RSS aggregators append the media outlet: "... | ОТВ - Новости".
+    # Remove the full publisher label without removing a meaningful sentence.
+    title = re.sub(r"\s+\|\s+[^|]{2,90}$", "", title).strip()
     title = re.sub(r"\s+-\s+[^-]{3,50}$", "", title)
     lower = title.casefold()
     if (not 35 <= len(title) <= 190 or any(x in lower for x in BANNED)
@@ -186,7 +188,9 @@ def offline_draft(item, history):
         emoji = {"Дороги": "🚧", "Транспорт": "🚌", "ЖКХ": "💸", "Город": "🏙️",
                  "Цены": "💰", "Культура": "🎭", "Спорт": "🏆", "Образование": "📚"}.get(topic, "📰")
     # Keep all original factual words. Only prepend a conversational opener.
-    first = title[0].lower() + title[1:] if title[0] in "ВНСОПКТЭ" else title
+    first_word = title.split(maxsplit=1)[0]
+    prepositions = {"В", "На", "С", "О", "По", "К", "До", "За", "Из", "От", "Под", "При", "Без"}
+    first = title[0].lower() + title[1:] if first_word in prepositions else title
     sentence = f"{emoji} {prefix}, {first.rstrip(' .!?…')}" + "."
     if len(sentence.split()) > 35 or len(sentence) > 290:
         return {"publish": False}
