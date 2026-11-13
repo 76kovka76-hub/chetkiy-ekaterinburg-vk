@@ -143,6 +143,15 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XUjFyQ0NLdUFIUTYtei10OHhCeV9VSHoxOGRiU1JIekZSeDdzZWpXT1dQcXc1aVcyQmNtMUd4ZXB4ZUU0emNSLXFwVWpmbG10c2lKWHBDd0FVRFVpbVRRdk82TjJSRzFMcVNnUlNrMy0?oc=5",
       "text": "🏙️ Пацаны, в Екатеринбурге на 75-м году жизни скончался профессор Владимир Мотревич.",
       "published_at": "2026-11-13T05:31:20.052729+00:00"
+    },
+    {
+      "slot": "2026-11-13-14",
+      "post_id": 17,
+      "source": "Google Новости",
+      "title": "Под Екатеринбургом обнаружили свалку биологических отходов - Ведомости Урал",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFdaQXJXWjZrc2VOVThoZWpOQ2pySkw5ZG9SZHNLVXRHMDZ1aUt1akhHcF9EMFhxOVpZeFc1Z01PQkpLSzJSV29CMk1qLU0wRWFkc1JWS0RIWUJuMzhwUU9sRVhsWDAtbHRqNWRMaS1zNFowODJmcDNybEltQ1ZIY1M1Vld3MGx6cktNMWxsS0FvT09NeEE?oc=5",
+      "text": "🏙️ Братва, под Екатеринбургом обнаружили свалку биологических отходов.",
+      "published_at": "2026-11-13T06:33:05.126207+00:00"
     }
   ],
   "used_links": [
@@ -160,7 +169,8 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE84V1JjZjFXM0ZxMTBySjZSUWdRZ0pfeHVodzRqNXNmWmV5bktWbThVM2szSXRWY0I5Si1YNFVxcW1UQ09PZTNObHZSMXJtX3FLbUFPaWttNk5EZUEyWndSTlFJS011dXNWQmhrS09YQVU",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0SjV6V3VPZTFrRy1IRFhTSnlOa08yYU5TUE90VzhmWU1qLXpMbVZyV3lpbUNGY1Nzb2JVYWU1VWVCaU05ZzNTeFJvMTNjbDNWMDJfT3E3WmFzUUNQS001cDYzcTFoNFIybndUdTh2WU8",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SM1N4aDkwekxEdlJhODRoOTZ4TmNxdTJzQVNKUXJnOUMtcjdKQWRMek5MVkJFQ1pmVG9RUlRpVUNlOGJBcS1sU2FrTUpHdXFPR2M1THdoVDNwQWxqTzd1VE0xWWhsNk5mUWU5VXFuQ18",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XUjFyQ0NLdUFIUTYtei10OHhCeV9VSHoxOGRiU1JIekZSeDdzZWpXT1dQcXc1aVcyQmNtMUd4ZXB4ZUU0emNSLXFwVWpmbG10c2lKWHBDd0FVRFVpbVRRdk82TjJSRzFMcVNnUlNrMy0"
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XUjFyQ0NLdUFIUTYtei10OHhCeV9VSHoxOGRiU1JIekZSeDdzZWpXT1dQcXc1aVcyQmNtMUd4ZXB4ZUU0emNSLXFwVWpmbG10c2lKWHBDd0FVRFVpbVRRdk82TjJSRzFMcVNnUlNrMy0",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFdaQXJXWjZrc2VOVThoZWpOQ2pySkw5ZG9SZHNLVXRHMDZ1aUt1akhHcF9EMFhxOVpZeFc1Z01PQkpLSzJSV29CMk1qLU0wRWFkc1JWS0RIWUJuMzhwUU9sRVhsWDAtbHRqNWRMaS1zNFowODJmcDNybEltQ1ZIY1M1Vld3MGx6cktNMWxsS0FvT09NeEE"
   ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
@@ -210,7 +220,10 @@
     "#ЕкатеринбургРасходы",
     "#ЕкатеринбургГород_cb60c80c1",
     "#ЕкатеринбургГород_cb60c80c12",
-    "#ЕкатеринбургГород_cb60c80c13"
+    "#ЕкатеринбургГород_cb60c80c13",
+    "#ЕкатеринбургГород",
+    "#ЕкатеринбургНашГород",
+    "#ЕкатеринбургГородскаяЖизнь"
   ],
   "skipped_links": []
 }
