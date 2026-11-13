@@ -170,6 +170,15 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXNTSjJEeHg2VkRralpnQktOVTZrY1JId3daajZCcTlEQ3hJVVZmcjhGUFFGdWtrTjJNS1FfcHkybkVlX1JIWEVGdmlOVUtOQ2FLcWhmWEQwbXAyNmF5cFZLd29RcUhlbXowTXFiTDNmZWRsQ3FEVnZ0bDdJVU1hWTB2ejlSWU95REVodENEZ1dnSFZ4YWRLSXhFRnM?oc=5",
       "text": "🏙️ Народ, Медведь разгромил садовый домик на окраине Екатеринбурга - Европейско-Азиатские Новости.",
       "published_at": "2026-11-13T08:50:07.485148+00:00"
+    },
+    {
+      "slot": "2026-11-13-18",
+      "post_id": 20,
+      "source": "Google Новости",
+      "title": "Медведь разгромил садовый дом в микрорайоне Елизавет в Екатеринбурге - Newsroom24",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tcFhiYVIyT0o5OXhDazJXUHNhQVY1Y2U1UnVHZ0RNM1NtMnpqTTBzOHgwLThUTURsWVRJazc2YmtYVjNwalYtRHVzaW0tVktRMVVuWE5PNjY1bVJOYjFjc0xUYi1LRGs0U29nZXYyelROM0VP?oc=5",
+      "text": "🏙️ Городские, Медведь разгромил садовый дом в микрорайоне Елизавет в Екатеринбурге.",
+      "published_at": "2026-11-13T09:46:52.503663+00:00"
     }
   ],
   "used_links": [
@@ -190,7 +199,8 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XUjFyQ0NLdUFIUTYtei10OHhCeV9VSHoxOGRiU1JIekZSeDdzZWpXT1dQcXc1aVcyQmNtMUd4ZXB4ZUU0emNSLXFwVWpmbG10c2lKWHBDd0FVRFVpbVRRdk82TjJSRzFMcVNnUlNrMy0",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFdaQXJXWjZrc2VOVThoZWpOQ2pySkw5ZG9SZHNLVXRHMDZ1aUt1akhHcF9EMFhxOVpZeFc1Z01PQkpLSzJSV29CMk1qLU0wRWFkc1JWS0RIWUJuMzhwUU9sRVhsWDAtbHRqNWRMaS1zNFowODJmcDNybEltQ1ZIY1M1Vld3MGx6cktNMWxsS0FvT09NeEE",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTRNcXM0LTJtWHJaNUhtalpYb0UyVExMNFc4V1ZEcy1WNTBQOEl3T1NFdFUtV2tGck5HRDRYQS0yVERmX3Q5LUlST1hzUUl2NnZ1SWNQVDZnYm93aFd0MEctNHZOd3FUb2NPRXNxS2xKa1NSYl9PNDJIYm9CWEhla1FlV3c1NmNkcm9wbkQ1dk1tdlFOZ0ZBc0k3VTA",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXNTSjJEeHg2VkRralpnQktOVTZrY1JId3daajZCcTlEQ3hJVVZmcjhGUFFGdWtrTjJNS1FfcHkybkVlX1JIWEVGdmlOVUtOQ2FLcWhmWEQwbXAyNmF5cFZLd29RcUhlbXowTXFiTDNmZWRsQ3FEVnZ0bDdJVU1hWTB2ejlSWU95REVodENEZ1dnSFZ4YWRLSXhFRnM"
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXNTSjJEeHg2VkRralpnQktOVTZrY1JId3daajZCcTlEQ3hJVVZmcjhGUFFGdWtrTjJNS1FfcHkybkVlX1JIWEVGdmlOVUtOQ2FLcWhmWEQwbXAyNmF5cFZLd29RcUhlbXowTXFiTDNmZWRsQ3FEVnZ0bDdJVU1hWTB2ejlSWU95REVodENEZ1dnSFZ4YWRLSXhFRnM",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tcFhiYVIyT0o5OXhDazJXUHNhQVY1Y2U1UnVHZ0RNM1NtMnpqTTBzOHgwLThUTURsWVRJazc2YmtYVjNwalYtRHVzaW0tVktRMVVuWE5PNjY1bVJOYjFjc0xUYi1LRGs0U29nZXYyelROM0VP"
   ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
@@ -249,7 +259,10 @@
     "#ЕкатеринбургГород",
     "#ЕкатеринбургРайоны",
     "#ЕкатеринбургБлагоустройство",
-    "#ЕкатеринбургГород"
+    "#ЕкатеринбургГород",
+    "#ЕкатеринбургБлагоустройство",
+    "#ЕкатеринбургГород",
+    "#ЕкатеринбургНашГород"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Zb0RUbWoya0o3d0c4ejFPajYtaTYwWVpfQmJDd0hQLXl1SGhJb1RBVHJXd3N2cThPbkpSRUhHYUZTTFlWNlVzMnFjX0VtOHh6Skh3eGdQTG5YMkF5SnZhSnZpem00SHdiMWxiSGJkYzc"
