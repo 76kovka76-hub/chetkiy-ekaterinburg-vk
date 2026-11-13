@@ -179,6 +179,15 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tcFhiYVIyT0o5OXhDazJXUHNhQVY1Y2U1UnVHZ0RNM1NtMnpqTTBzOHgwLThUTURsWVRJazc2YmtYVjNwalYtRHVzaW0tVktRMVVuWE5PNjY1bVJOYjFjc0xUYi1LRGs0U29nZXYyelROM0VP?oc=5",
       "text": "🏙️ Городские, Медведь разгромил садовый дом в микрорайоне Елизавет в Екатеринбурге.",
       "published_at": "2026-11-13T09:46:52.503663+00:00"
+    },
+    {
+      "slot": "2026-11-13-19",
+      "post_id": 21,
+      "source": "Google Новости",
+      "title": "В Екатеринбурге предложили создать первое в России Движение Наставников - Областная газета | Свердловская область",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QUGtmNlA0WUc0bXYwd2V3bjNWT1FTOHVVUlhYWGFISHFwZ0FOWW9acXg2T1JDSk1DM1d5UU5aLVpqY1JEMHRRYktDTEpPdXU0dTI4?oc=5",
+      "text": "🚧 Пацаны, в Екатеринбурге предложили создать первое в России Движение Наставников.",
+      "published_at": "2026-11-13T10:45:22.339868+00:00"
     }
   ],
   "used_links": [
@@ -200,7 +209,8 @@
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFdaQXJXWjZrc2VOVThoZWpOQ2pySkw5ZG9SZHNLVXRHMDZ1aUt1akhHcF9EMFhxOVpZeFc1Z01PQkpLSzJSV29CMk1qLU0wRWFkc1JWS0RIWUJuMzhwUU9sRVhsWDAtbHRqNWRMaS1zNFowODJmcDNybEltQ1ZIY1M1Vld3MGx6cktNMWxsS0FvT09NeEE",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTRNcXM0LTJtWHJaNUhtalpYb0UyVExMNFc4V1ZEcy1WNTBQOEl3T1NFdFUtV2tGck5HRDRYQS0yVERmX3Q5LUlST1hzUUl2NnZ1SWNQVDZnYm93aFd0MEctNHZOd3FUb2NPRXNxS2xKa1NSYl9PNDJIYm9CWEhla1FlV3c1NmNkcm9wbkQ1dk1tdlFOZ0ZBc0k3VTA",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXNTSjJEeHg2VkRralpnQktOVTZrY1JId3daajZCcTlEQ3hJVVZmcjhGUFFGdWtrTjJNS1FfcHkybkVlX1JIWEVGdmlOVUtOQ2FLcWhmWEQwbXAyNmF5cFZLd29RcUhlbXowTXFiTDNmZWRsQ3FEVnZ0bDdJVU1hWTB2ejlSWU95REVodENEZ1dnSFZ4YWRLSXhFRnM",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tcFhiYVIyT0o5OXhDazJXUHNhQVY1Y2U1UnVHZ0RNM1NtMnpqTTBzOHgwLThUTURsWVRJazc2YmtYVjNwalYtRHVzaW0tVktRMVVuWE5PNjY1bVJOYjFjc0xUYi1LRGs0U29nZXYyelROM0VP"
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tcFhiYVIyT0o5OXhDazJXUHNhQVY1Y2U1UnVHZ0RNM1NtMnpqTTBzOHgwLThUTURsWVRJazc2YmtYVjNwalYtRHVzaW0tVktRMVVuWE5PNjY1bVJOYjFjc0xUYi1LRGs0U29nZXYyelROM0VP",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QUGtmNlA0WUc0bXYwd2V3bjNWT1FTOHVVUlhYWGFISHFwZ0FOWW9acXg2T1JDSk1DM1d5UU5aLVpqY1JEMHRRYktDTEpPdXU0dTI4"
   ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
@@ -262,7 +272,10 @@
     "#ЕкатеринбургГород",
     "#ЕкатеринбургБлагоустройство",
     "#ЕкатеринбургГород",
-    "#ЕкатеринбургНашГород"
+    "#ЕкатеринбургНашГород",
+    "#ЕкатеринбургДороги",
+    "#ЕкатеринбургЗаРулём",
+    "#ЕкатеринбургДвижение"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Zb0RUbWoya0o3d0c4ejFPajYtaTYwWVpfQmJDd0hQLXl1SGhJb1RBVHJXd3N2cThPbkpSRUhHYUZTTFlWNlVzMnFjX0VtOHh6Skh3eGdQTG5YMkF5SnZhSnZpem00SHdiMWxiSGJkYzc"
