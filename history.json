@@ -260,6 +260,15 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6al9OVGtkeVJZVndWbDBsYmJIc29PTm1ldTN4Z0JBZjN6cDBTR0FqS0VXNnhMTzcyQnFCclM0eEIteGxhemhVN01YZk0ySlk?oc=5",
       "text": "🎭 Народ, в Екатеринбурге наградили победителей Международного чемпионата высокотехнологичных профессий «Хайтек: навыки будущего» и Международного фестиваля «Хайтек.Юниоры».",
       "published_at": "2026-11-13T18:22:26.366173+00:00"
+    },
+    {
+      "slot": "2026-11-14-00",
+      "post_id": 30,
+      "source": "Google Новости",
+      "title": "Подросток с кастетом получил домашний арест за нападение в Екатеринбурге - Ведомости Урал",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGJia1JzSy04YmZmRUU1S2hfR1VManhVOTBodmg1RkZldzEyX3ZsUzNXVnlpUm1KUDV6TVQ2ckVLdVFwaGFMZXVwTllkMmR5RXlQeTRGSkV3blFncjlzT2NuYTNqbF9GaXhtbXhVc2s5RkVHODY3cWo0Z2h6SXZqTTRNQlg5aVBmOXdNX0dDOEVPN0thRHl3?oc=5",
+      "text": "🏙️ Пацаны, Подросток с кастетом получил домашний арест за нападение в Екатеринбурге.",
+      "published_at": "2026-11-13T19:25:11.623978+00:00"
     }
   ],
   "used_links": [
@@ -290,7 +299,8 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2xRaHhtNWxscDlSQnRmWndXdzRTVTJFbW1qMVBvUkxMZFh3SXI3WmhMVDFpYzR6UGxaTFIxaDNwMTRDR3pBbFVjNE9mUkJIWXNOV0JXQU1tbENXc2ZxdWM4eXNZWWhTTkxuam1lREZoeUVhdzdXeUxOaHF4X2l3b3ozaC1QeVZtTG40MlV4bndmVTVnbmstTkpxeURkRndQ",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSUdoQ0VyYkdKdWhmT3hjNkdWMWhwRHM2bDBMbXJzOFRhSmgzZkhGemcwSnd1bEVLVnQ3UXFTNDc4Y0U4bm81V1RKdjFxMHdQWTB1V1VkTVV6Z2J2NTlhemhpN1V4S1FlU2g5WDJRR3l3eG9Fa1lPaW9ubW1OazJhTENvTFo4WURpNmM4YlBMSWM2djFSaGRQRXdmSzc",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREFFVHhfODNYWGFtWi1hLVZjdjRVRDI5VU5FNVkzMDJNNmpBOEoxSHRQeE5ielpMWlEzcUpBZTQ1WGpJNFI4SVRTdGh1UXNCN2l4cDRPZ1lwamtGcDRfM01KNE5meWQxNHRrZDFid0JmNE5UTU9rMXVlOU9VbEU3X0cxeWN3ZG8",
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6al9OVGtkeVJZVndWbDBsYmJIc29PTm1ldTN4Z0JBZjN6cDBTR0FqS0VXNnhMTzcyQnFCclM0eEIteGxhemhVN01YZk0ySlk"
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6al9OVGtkeVJZVndWbDBsYmJIc29PTm1ldTN4Z0JBZjN6cDBTR0FqS0VXNnhMTzcyQnFCclM0eEIteGxhemhVN01YZk0ySlk",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGJia1JzSy04YmZmRUU1S2hfR1VManhVOTBodmg1RkZldzEyX3ZsUzNXVnlpUm1KUDV6TVQ2ckVLdVFwaGFMZXVwTllkMmR5RXlQeTRGSkV3blFncjlzT2NuYTNqbF9GaXhtbXhVc2s5RkVHODY3cWo0Z2h6SXZqTTRNQlg5aVBmOXdNX0dDOEVPN0thRHl3"
   ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
@@ -379,7 +389,10 @@
     "#ЕкатеринбургКоманды",
     "#ЕкатеринбургКудаСходить",
     "#ЕкатеринбургДосуг",
-    "#ЕкатеринбургАфиша"
+    "#ЕкатеринбургАфиша",
+    "#ЕкатеринбургНашГород",
+    "#ЕкатеринбургГородскаяЖизнь",
+    "#ЕкатеринбургРайоны"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Zb0RUbWoya0o3d0c4ejFPajYtaTYwWVpfQmJDd0hQLXl1SGhJb1RBVHJXd3N2cThPbkpSRUhHYUZTTFlWNlVzMnFjX0VtOHh6Skh3eGdQTG5YMkF5SnZhSnZpem00SHdiMWxiSGJkYzc",
