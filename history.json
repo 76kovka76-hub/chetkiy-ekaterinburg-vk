@@ -395,6 +395,15 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzZSb0xnakUzQlhTaVFKSXVmYTdnQy1ZMVNCMTJNS3YzQm1yblYzbGtGZV8tbFc4VUUzazFlcWJDV0g3X1Jrd1REdkVub09KYWR4NURIQlk0UDZsOGpHRjRxY0R5UXZrV05tMXZtVFBoZFh6TzB3N1I2bEhMaVluOU81NVJJNEpRSWd2MUc3bmFKMDVjUFRRbnZ5d3g5TUE1RmtGVWFOWnkzUHRrQkpFQ0ZKWHFtNW1rUXRQQkgxZ3M1enc?oc=5",
       "text": "⚠️ Народ, Смертельное ДТП ограничило движение на трассе Екатеринбург — Нижний Тагил — Серов - Европейско-Азиатские Новости.",
       "published_at": "2026-11-14T07:43:09.379122+00:00"
+    },
+    {
+      "slot": "2026-11-14-16",
+      "post_id": 45,
+      "source": "Google Новости",
+      "title": "В Екатеринбурге столкнулись пять машин: по предварительным данным, водителю стало плохо - ural24.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3pOT2FvbzI5X2JzLTQyUHIxaC14d2dEVllGcW53R1dEcFpHMGJvYlhxNmFuUmFPTVN5SFZ0T3hLOUppWDBMMHluT3Y3MHlyTnRMX1FveFJTZXRXX0pFR2M2ZWFhejV5Y0JpRGozSGpXRUJLM2xpVnZWTmtvalY0cENkdUNIeHNubjhWM0xBWFY3anVOY2pzdm93UjVTaHJGdE03ZjRLMmN0d2xEZTk4?oc=5",
+      "text": "🏙️ Народ, в Екатеринбурге столкнулись пять машин: по предварительным данным, водителю стало плохо.",
+      "published_at": "2026-11-14T08:31:52.933387+00:00"
     }
   ],
   "used_links": [
@@ -440,7 +449,8 @@
     "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2OWxJQkQzcEpFOFhrNHJGVDVpUTdDTGp2Rm9uQW1nTHlnRGYwVUdDWWNUVXA5T09IdGt2RlZjaExRa0k4NF9Ha1FBNjVsMTA5TlFRQmctRkEzdXhjVzZJQ2VnU2hKeG1xZmZpbkRhUQ",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkRkVVaVp6QnBwdDVCdXpVRFdMWHV1TzZKVVh3a2pka1R1QXBzSndFRDlVM2pkV0J6N29yNTR4Ni0xV0M4Q3VfVkpuc1lyQk1Wb1dtZnNUWDdrNHlZdEg4M0hRMnZ6MExIV1lpZU1haU9YWVUt",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ2NEeEtmS1NLaGEyVjFfMDhPTzAtaHg2R0JsV0F1bzN6TXFDVW84ZU9OYjhUa2VUOGpZZ3ZNdHJGZi1tYmVwMGJncDcxMmhZTEhRV2dIWkNoVTFqNkwxcDhCNVdRZmhEMlVJWFQtdlJiVFNPajQwZDZLQ0FuakpQWE85VEVEWjVMU25HU2U5QXNKc0hpSXZKc1FXUUlFZ2tjTm9sSTM0cDhhR3Jaa1UzZFE2UEl4ME9UeW83c0VDTjBSXzNtUXc",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzZSb0xnakUzQlhTaVFKSXVmYTdnQy1ZMVNCMTJNS3YzQm1yblYzbGtGZV8tbFc4VUUzazFlcWJDV0g3X1Jrd1REdkVub09KYWR4NURIQlk0UDZsOGpHRjRxY0R5UXZrV05tMXZtVFBoZFh6TzB3N1I2bEhMaVluOU81NVJJNEpRSWd2MUc3bmFKMDVjUFRRbnZ5d3g5TUE1RmtGVWFOWnkzUHRrQkpFQ0ZKWHFtNW1rUXRQQkgxZ3M1enc"
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzZSb0xnakUzQlhTaVFKSXVmYTdnQy1ZMVNCMTJNS3YzQm1yblYzbGtGZV8tbFc4VUUzazFlcWJDV0g3X1Jrd1REdkVub09KYWR4NURIQlk0UDZsOGpHRjRxY0R5UXZrV05tMXZtVFBoZFh6TzB3N1I2bEhMaVluOU81NVJJNEpRSWd2MUc3bmFKMDVjUFRRbnZ5d3g5TUE1RmtGVWFOWnkzUHRrQkpFQ0ZKWHFtNW1rUXRQQkgxZ3M1enc",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3pOT2FvbzI5X2JzLTQyUHIxaC14d2dEVllGcW53R1dEcFpHMGJvYlhxNmFuUmFPTVN5SFZ0T3hLOUppWDBMMHluT3Y3MHlyTnRMX1FveFJTZXRXX0pFR2M2ZWFhejV5Y0JpRGozSGpXRUJLM2xpVnZWTmtvalY0cENkdUNIeHNubjhWM0xBWFY3anVOY2pzdm93UjVTaHJGdE03ZjRLMmN0d2xEZTk4"
   ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
@@ -574,7 +584,10 @@
     "#ЕкатеринбургРайоны",
     "#ЕкатеринбургДороги",
     "#ЕкатеринбургЗаРулём",
-    "#ЕкатеринбургДвижение"
+    "#ЕкатеринбургДвижение",
+    "#ЕкатеринбургРайоны",
+    "#ЕкатеринбургБлагоустройство",
+    "#ЕкатеринбургГород"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Zb0RUbWoya0o3d0c4ejFPajYtaTYwWVpfQmJDd0hQLXl1SGhJb1RBVHJXd3N2cThPbkpSRUhHYUZTTFlWNlVzMnFjX0VtOHh6Skh3eGdQTG5YMkF5SnZhSnZpem00SHdiMWxiSGJkYzc",
@@ -590,6 +603,8 @@
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0ptaWprR29pMlhxRUw3aWxyX3RmRkhEZDZQZTBuT1Y3SWtPUElwVmlyMGgteWk5cVRzZkhocUJWaXNXeEJlSXQxNG5JcXhwRXprTzZCSFc5a2pHZlUzUjFoS2R0VF9pWWdQMXpXbVNSQ0N5UHdRd1h4X2VHbGJhNVZXeTQzQVlJdTF6TUtUa19QeEs2RTZFLXdfWkpTbktYOUt5OEEtdThMMWVmT0hRUEZtQkpmaEZQUTZnVFlIQUpwSDA",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lSHNBUXkxdUtzS3QtN0N3cF9oaUg5aFlScDEtQUk5c0lwSi1KanV1QmowYWpLTFg3YjQ1Q2R4OE9uQXZWOWdPZlBFQ2wyTHVYdkJERjQxQVRQYkp5OW81NHM2UQ",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RRHpoU2dCSWVobW1XRi1vY2FBSXgxUDNwUktQSzJocmxrQ2Noa3RmVTVieTBGdGEycU9GOTVJakgwM1hKdnExQmtVLVZ4UDlobFV2NUdIcUMydzdPaV96X3Z1dGRGeEZjdmM4WkhVX08",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE81YkN0czgyWlhRQTJnVWpjZHVaNmFnUnBkb0pxM1I3c1FqZGltODR5aWtaUl9scmFqVkI5NFdSZmpQc0Y3V2FVZXRTbGpHZmpMUXNxTXZBN3ZleDJiZ3pmUEI3bHk5dk9GM0pJSWtHeFU"
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE81YkN0czgyWlhRQTJnVWpjZHVaNmFnUnBkb0pxM1I3c1FqZGltODR5aWtaUl9scmFqVkI5NFdSZmpQc0Y3V2FVZXRTbGpHZmpMUXNxTXZBN3ZleDJiZ3pmUEI3bHk5dk9GM0pJSWtHeFU",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLMnAtOU5paHB3cGppM3BWQ0h5dF9sWi1ack5hbk5lVGVBZTAyTG52MzhoTm9Oam1HZFJkbUd2SGlJdkZPZ1B5enRxTmFLTURDTkVWd2xSb293MzVsQ3VNeG9SSk1BWU5qV0RObXpQWVRRYVFJTEJjbg",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MeGY5RXVkbTU3Sm9XUUNaVDEzblJBT1R1cmFKcUtVY19qRThhZ3FsV242amstdnc3bzVUWFYyOTdRVDZsekxFcXJUX0hibTkyNlp3"
   ]
 }
