@@ -314,6 +314,15 @@
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1kbURrc1d5WlRkN3RjU08yMUNZV09ycVFkR0NldzZlVjNmWUQ1QWZrTFZmSmlUZmQ5dnBWcU03NW9mSFU?oc=5",
       "text": "🏙️ Родные, Гастроли — ресторан в Екатеринбурге, лауреат премии WHERETOEAT.",
       "published_at": "2026-11-13T23:27:19.111362+00:00"
+    },
+    {
+      "slot": "2026-11-14-06",
+      "post_id": 36,
+      "source": "Google Новости",
+      "title": "Госавтоинспекция выясняет причины ДТП с пятью машинами в Екатеринбурге - Newsroom24",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KVDdvc293bFdSa3pfZXFlWlNIbzNwS1BrdmM5NFYzS2diN3h1eHI5cjJfYVM2azlvb2MzcFVSYW5ueUo2ZFFuLXdTVjd4MVVQVHc2dGtDZk93S2VtdVdjSzI2dmFnS0hOQjUzOFVBTEVMbnM2?oc=5",
+      "text": "🚧 Народ, Госавтоинспекция выясняет причины ДТП с пятью машинами в Екатеринбурге.",
+      "published_at": "2026-11-14T00:09:43.375820+00:00"
     }
   ],
   "used_links": [
@@ -350,7 +359,8 @@
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjNWMExiU1owRnRxOG1nYjJOTlBZZzBmZ0tGTVBKNFE3Z1V0RDI3eFZlVUxacDl1WHo3cm1Yakt2ZUpOZE1EdVhlYzRMYi1SRVZSMWlweFVHajczVGFnRGtYNzhrZE9VaWpldms3OVowZ3VnX3lBWFBkZWl1bm9aVG94RUh1Q1IzZ1hUT21LbHp3Sm5rUmRKNnB3ZXFtcWJvbml1TlFKekwtQnBUcGRXSTdtQzdwTTB3MGhqdGV2Zmo1QQ",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ENlA5QU50Y0YyTjBacGl5LUlDbXRkTndNMU1kb0tkMXZsWGZaMGJobkllblhEWEJHVU5uc0ZxaThxYUszVnRzcUJJZEpfNXU3UUN5RXY3Yk15OFBYSk9oNzcweUVFcEwwTTRzNFRLZ9IBdEFVX3lxTE5iUnp4cnlQTDVwWjZKMmJpUnU0eENGN0pRa2JfdWVKeW5zTWRuMVNucm1NblU2UW5Vc3VNb1FUbUZseXM3REFxTjlnU2w2Y3pCS212MmZtLWN3TnlDNEwtbklLb09UWkRVcnUtenJJbmFkNnBs",
     "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNU1tczNNankwdlNxM1dnaS1OVkdxVUFnTmhLcVZ5cmZZZHBSZXNRakhZU3V6dzktSGZMemVJREQxV3Vzdi1jUnVSS0tTbE9hbF8yamVrX0d0M1h4MmlydTRIMF9vYjFHdGFRcC1xbHVvQW5OWHdDSXRfU25uUm1YNzBxdjVHRHZRMzhNb0VBNmRUVTBKZUxPSW5NM2w1QzlINEs00gFCQVVfeXFMUGs1XzFuVlZTVndwZE9YbUhLTkRqNUFhcmp2NDJEZ3ByTjhGMlJwRERHNE5DSkdseWVaTm9KOWlqdm5B",
-    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1kbURrc1d5WlRkN3RjU08yMUNZV09ycVFkR0NldzZlVjNmWUQ1QWZrTFZmSmlUZmQ5dnBWcU03NW9mSFU"
+    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1kbURrc1d5WlRkN3RjU08yMUNZV09ycVFkR0NldzZlVjNmWUQ1QWZrTFZmSmlUZmQ5dnBWcU03NW9mSFU",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KVDdvc293bFdSa3pfZXFlWlNIbzNwS1BrdmM5NFYzS2diN3h1eHI5cjJfYVM2azlvb2MzcFVSYW5ueUo2ZFFuLXdTVjd4MVVQVHc2dGtDZk93S2VtdVdjSzI2dmFnS0hOQjUzOFVBTEVMbnM2"
   ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
@@ -457,13 +467,19 @@
     "#ЕкатеринбургБлагоустройство",
     "#ЕкатеринбургГородскаяЖизнь",
     "#ЕкатеринбургРайоны",
-    "#ЕкатеринбургБлагоустройство"
+    "#ЕкатеринбургБлагоустройство",
+    "#ЕкатеринбургДорожнаяОбстановка",
+    "#ЕкатеринбургДороги",
+    "#ЕкатеринбургЗаРулём"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Zb0RUbWoya0o3d0c4ejFPajYtaTYwWVpfQmJDd0hQLXl1SGhJb1RBVHJXd3N2cThPbkpSRUhHYUZTTFlWNlVzMnFjX0VtOHh6Skh3eGdQTG5YMkF5SnZhSnZpem00SHdiMWxiSGJkYzc",
     "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1GNXhLdFdpZmQ1enEydGNYempGUW9ZbnJGMnVsLUFhelhWV09hSHlsRHJPaGtnMFhtX1ZKQkhzYXBvbmNFMUlFSg",
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3BFUm9SSUx1T1BQQWJwZGcwLWNrOF96WHAtQVQtZHJjSWowLTEyOU5uMEI5elM5ZlF4ZU9OTUdzQmxtQThua0xsTjMyRkN3NTBEV2xxTVZZMGJDVlowbWhBZkVDdVhRLXFzSGxNdVVmbkZCaUl5dEtxbmJBRU56eE9RNjRlSmxvaHN2MWR1X19LSlJpeTJn",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1RzNEUWdzVGdhbzhKVTloXzQxaGtxbkNQNTRaQXluTmNsdHJDZ3lLMUk4UHhMc1diVnZGRkQ2eEdtUzROQmZjT1dpYnIySEZ5M3BlZG1yM1N3UkF4UkJZeW5BVE9VY3pnVmpPai01Rzl4OXdLdHc",
-    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBXNVdXZVAxUXB3Z0dSZDlaMzdrZzFoTE9wX01FT0N6UkQwd0RpSlNKMTdoNjdUSmJzMG9FbFhfd3B5bTQ"
+    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBXNVdXZVAxUXB3Z0dSZDlaMzdrZzFoTE9wX01FT0N6UkQwd0RpSlNKMTdoNjdUSmJzMG9FbFhfd3B5bTQ",
+    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1kaHo0S20wY0lUU2hZYzhveVMyaU9KR3hBUExVb1RLREU1NzkySWJ1Nmh6OFowX2c0RDNEeVJlR1lBMlk",
+    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB5UnpZa3RVdjdsaWVqRFpGX3M3RWVMYlJReXhoWENKc3pIZ3QzQS1qMXFuYWVjODdCYUdPNnl2VnUyekE",
+    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9uSkg2eHBRMHJrdWVPV2JBZlRraVd4Mi00cXZ2bUwwTnRKakctaFQ5Ukd6Z2FJQVdXUUd0czBwX2dXVDg"
   ]
 }
