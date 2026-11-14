@@ -359,6 +359,15 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWNlNHJDX3BGQlZkVHJuOWNUeHNIaUVNYWNNR2E1WVo5VC1IVXBKZ3VXUExrSUlUakRYandPQnNFUkwtNHBHY0xvcU9oUTBfazYzTVpaRGVFRVYtdDRuSTZSSVJKVXdHai1DUUptazk2Y2FBYTVaN3A2X2J0V3RXZ3FIamNGZGxzTzFOTXJSSQ?oc=5",
       "text": "⚠️ Народ, в Екатеринбурге в многоэтажке произошел пожар в электрощитовой, жильцы эвакуированы.",
       "published_at": "2026-11-14T04:04:08.898731+00:00"
+    },
+    {
+      "slot": "2026-11-14-12",
+      "post_id": 41,
+      "source": "Google Новости",
+      "title": "Транспорт большого города: до конца года в Екатеринбург прибудут еще десять трехсекционных трамваев - «Уральский рабочий»",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2OWxJQkQzcEpFOFhrNHJGVDVpUTdDTGp2Rm9uQW1nTHlnRGYwVUdDWWNUVXA5T09IdGt2RlZjaExRa0k4NF9Ha1FBNjVsMTA5TlFRQmctRkEzdXhjVzZJQ2VnU2hKeG1xZmZpbkRhUQ?oc=5",
+      "text": "🚌 Народ, Транспорт большого города: до конца года в Екатеринбург прибудут еще десять трехсекционных трамваев.",
+      "published_at": "2026-11-14T04:56:52.256335+00:00"
     }
   ],
   "used_links": [
@@ -400,7 +409,8 @@
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0U5WTZYVVhneHUtNGpkOFpGTzY3UGFVUjhtU3RLYWxkUnBwTmdPS2hKRWVLZWNQbGtyWXFGUmE2MHBKcFJydy12VUZQcGpUb0NiUUNHUXg1SGtSNzRIR1ZGaGROTkZwYmkzcklrLVJETnQyQUFHMjVpTzg2NzZRd0R6Y3hUcGR4Qkc2QWJzRjVKRGpQQTJyZF9VME5LdHI4UjNVdUtFMV95ZzNYRVE",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQ1k3LUJvSHdsVVNZZEtMMExSWlpJclUwd0IzeGNvLVNmalloR3ZTOG9OdGY4d2pEbWpfbkpCQWtVc0hTNlA0Z05RcDZJUmlxdkUyV1daa2JYMDdYZFNabEl4WkFveEgxc3o5QnZBLU4",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTFBreHRGeWtJTE92bEc0aW9iZ3dyWTZhMThvaFBuVmRJdEZWdVhHSm1WN0lPNnkwSDNpelVHejVMWGxaSF85cnFPZDBMMjFURmlBeW1IdU4zRm16WXlhc3VvNlF5S0pfUlVEV1VsQjViUHhpdUVU",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWNlNHJDX3BGQlZkVHJuOWNUeHNIaUVNYWNNR2E1WVo5VC1IVXBKZ3VXUExrSUlUakRYandPQnNFUkwtNHBHY0xvcU9oUTBfazYzTVpaRGVFRVYtdDRuSTZSSVJKVXdHai1DUUptazk2Y2FBYTVaN3A2X2J0V3RXZ3FIamNGZGxzTzFOTXJSSQ"
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWNlNHJDX3BGQlZkVHJuOWNUeHNIaUVNYWNNR2E1WVo5VC1IVXBKZ3VXUExrSUlUakRYandPQnNFUkwtNHBHY0xvcU9oUTBfazYzTVpaRGVFRVYtdDRuSTZSSVJKVXdHai1DUUptazk2Y2FBYTVaN3A2X2J0V3RXZ3FIamNGZGxzTzFOTXJSSQ",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2OWxJQkQzcEpFOFhrNHJGVDVpUTdDTGp2Rm9uQW1nTHlnRGYwVUdDWWNUVXA5T09IdGt2RlZjaExRa0k4NF9Ha1FBNjVsMTA5TlFRQmctRkEzdXhjVzZJQ2VnU2hKeG1xZmZpbkRhUQ"
   ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
@@ -522,7 +532,10 @@
     "#ЕкатеринбургОбщественныйТранспорт",
     "#ЕкатеринбургСводка",
     "#ЕкатеринбургПроисшествия",
-    "#ЕкатеринбургСлужбы"
+    "#ЕкатеринбургСлужбы",
+    "#ЕкатеринбургОстановки",
+    "#ЕкатеринбургОбщественныйТранспорт",
+    "#ЕкатеринбургТранспорт"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Zb0RUbWoya0o3d0c4ejFPajYtaTYwWVpfQmJDd0hQLXl1SGhJb1RBVHJXd3N2cThPbkpSRUhHYUZTTFlWNlVzMnFjX0VtOHh6Skh3eGdQTG5YMkF5SnZhSnZpem00SHdiMWxiSGJkYzc",
