@@ -341,6 +341,15 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQ1k3LUJvSHdsVVNZZEtMMExSWlpJclUwd0IzeGNvLVNmalloR3ZTOG9OdGY4d2pEbWpfbkpCQWtVc0hTNlA0Z05RcDZJUmlxdkUyV1daa2JYMDdYZFNabEl4WkFveEgxc3o5QnZBLU4?oc=5",
       "text": "🏙️ Братва, в Екатеринбурге барсуки Мэри, Фродо и Рохан впали в зимнюю спячку.",
       "published_at": "2026-11-14T02:16:58.717569+00:00"
+    },
+    {
+      "slot": "2026-11-14-10",
+      "post_id": 39,
+      "source": "Google Новости",
+      "title": "Галямов предложил вернуть киоски на конечные остановки Екатеринбурга - Newsroom24",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBreHRGeWtJTE92bEc0aW9iZ3dyWTZhMThvaFBuVmRJdEZWdVhHSm1WN0lPNnkwSDNpelVHejVMWGxaSF85cnFPZDBMMjFURmlBeW1IdU4zRm16WXlhc3VvNlF5S0pfUlVEV1VsQjViUHhpdUVU?oc=5",
+      "text": "🚌 Родные, Галямов предложил вернуть киоски на конечные остановки Екатеринбурга.",
+      "published_at": "2026-11-14T03:10:18.999251+00:00"
     }
   ],
   "used_links": [
@@ -380,7 +389,8 @@
     "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1kbURrc1d5WlRkN3RjU08yMUNZV09ycVFkR0NldzZlVjNmWUQ1QWZrTFZmSmlUZmQ5dnBWcU03NW9mSFU",
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KVDdvc293bFdSa3pfZXFlWlNIbzNwS1BrdmM5NFYzS2diN3h1eHI5cjJfYVM2azlvb2MzcFVSYW5ueUo2ZFFuLXdTVjd4MVVQVHc2dGtDZk93S2VtdVdjSzI2dmFnS0hOQjUzOFVBTEVMbnM2",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0U5WTZYVVhneHUtNGpkOFpGTzY3UGFVUjhtU3RLYWxkUnBwTmdPS2hKRWVLZWNQbGtyWXFGUmE2MHBKcFJydy12VUZQcGpUb0NiUUNHUXg1SGtSNzRIR1ZGaGROTkZwYmkzcklrLVJETnQyQUFHMjVpTzg2NzZRd0R6Y3hUcGR4Qkc2QWJzRjVKRGpQQTJyZF9VME5LdHI4UjNVdUtFMV95ZzNYRVE",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQ1k3LUJvSHdsVVNZZEtMMExSWlpJclUwd0IzeGNvLVNmalloR3ZTOG9OdGY4d2pEbWpfbkpCQWtVc0hTNlA0Z05RcDZJUmlxdkUyV1daa2JYMDdYZFNabEl4WkFveEgxc3o5QnZBLU4"
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQ1k3LUJvSHdsVVNZZEtMMExSWlpJclUwd0IzeGNvLVNmalloR3ZTOG9OdGY4d2pEbWpfbkpCQWtVc0hTNlA0Z05RcDZJUmlxdkUyV1daa2JYMDdYZFNabEl4WkFveEgxc3o5QnZBLU4",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBreHRGeWtJTE92bEc0aW9iZ3dyWTZhMThvaFBuVmRJdEZWdVhHSm1WN0lPNnkwSDNpelVHejVMWGxaSF85cnFPZDBMMjFURmlBeW1IdU4zRm16WXlhc3VvNlF5S0pfUlVEV1VsQjViUHhpdUVU"
   ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
@@ -496,7 +506,10 @@
     "#ЕкатеринбургРайоны",
     "#ЕкатеринбургГород",
     "#ЕкатеринбургНашГород",
-    "#ЕкатеринбургГородскаяЖизнь"
+    "#ЕкатеринбургГородскаяЖизнь",
+    "#ЕкатеринбургМаршруты",
+    "#ЕкатеринбургОстановки",
+    "#ЕкатеринбургОбщественныйТранспорт"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Zb0RUbWoya0o3d0c4ejFPajYtaTYwWVpfQmJDd0hQLXl1SGhJb1RBVHJXd3N2cThPbkpSRUhHYUZTTFlWNlVzMnFjX0VtOHh6Skh3eGdQTG5YMkF5SnZhSnZpem00SHdiMWxiSGJkYzc",
@@ -509,6 +522,8 @@
     "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9uSkg2eHBRMHJrdWVPV2JBZlRraVd4Mi00cXZ2bUwwTnRKakctaFQ5Ukd6Z2FJQVdXUUd0czBwX2dXVDg",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWWI5RjUzMUhWXzJ0cFhzRkNLSDE2WGxHQ1lfaGJXRkpjMDUtVExOUzZqV20wRzZFY19tcmViSW1BejJjeGxTRFcweVNSMDN3RklVUzVuS2ZhYWNsZDItNGx5bG9LU3kwdEtUYkJsTUp3SVhMUXVEWnZza3VJb1QteVoyZG4yMmZSemlkbXBFdks5NUpqTWlhb1hHVEdvcFkxV0tRSm5WR2I3VFZEWHhCU1E3bkpmVE5MajNUdjFOVDBsRGl0SENkTWFNbloxUjdfTFdhZFk3YXowQ0N1V0RQd1BoTllHbGlSM1VfUVB1Uk9TQQ",
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSRmxJNmdObVNEQmtqb3QtTE1yLXpjY3djVDVVX2VRMnFoT2k5d2F5VVNGZ0ZOcVlsX0hDVlZfU2NibGpqUEU0YXBXRi1tQdIBWEFVX3lxTFBpNG9pLWp2em9RclJoVlRYRGM3MHBWWG9LeVpDdTcxcDZzNWxoZlFHVnFiUHpGQ2YxSi0xbHhGaGk0SFhCZUc2NG1MQlFWMFFMNWdfNGtZYmI",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0ptaWprR29pMlhxRUw3aWxyX3RmRkhEZDZQZTBuT1Y3SWtPUElwVmlyMGgteWk5cVRzZkhocUJWaXNXeEJlSXQxNG5JcXhwRXprTzZCSFc5a2pHZlUzUjFoS2R0VF9pWWdQMXpXbVNSQ0N5UHdRd1h4X2VHbGJhNVZXeTQzQVlJdTF6TUtUa19QeEs2RTZFLXdfWkpTbktYOUt5OEEtdThMMWVmT0hRUEZtQkpmaEZQUTZnVFlIQUpwSDA"
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0ptaWprR29pMlhxRUw3aWxyX3RmRkhEZDZQZTBuT1Y3SWtPUElwVmlyMGgteWk5cVRzZkhocUJWaXNXeEJlSXQxNG5JcXhwRXprTzZCSFc5a2pHZlUzUjFoS2R0VF9pWWdQMXpXbVNSQ0N5UHdRd1h4X2VHbGJhNVZXeTQzQVlJdTF6TUtUa19QeEs2RTZFLXdfWkpTbktYOUt5OEEtdThMMWVmT0hRUEZtQkpmaEZQUTZnVFlIQUpwSDA",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lSHNBUXkxdUtzS3QtN0N3cF9oaUg5aFlScDEtQUk5c0lwSi1KanV1QmowYWpLTFg3YjQ1Q2R4OE9uQXZWOWdPZlBFQ2wyTHVYdkJERjQxQVRQYkp5OW81NHM2UQ",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RRHpoU2dCSWVobW1XRi1vY2FBSXgxUDNwUktQSzJocmxrQ2Noa3RmVTVieTBGdGEycU9GOTVJakgwM1hKdnExQmtVLVZ4UDlobFV2NUdIcUMydzdPaV96X3Z1dGRGeEZjdmM4WkhVX08"
   ]
 }
