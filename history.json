@@ -350,6 +350,15 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBreHRGeWtJTE92bEc0aW9iZ3dyWTZhMThvaFBuVmRJdEZWdVhHSm1WN0lPNnkwSDNpelVHejVMWGxaSF85cnFPZDBMMjFURmlBeW1IdU4zRm16WXlhc3VvNlF5S0pfUlVEV1VsQjViUHhpdUVU?oc=5",
       "text": "🚌 Родные, Галямов предложил вернуть киоски на конечные остановки Екатеринбурга.",
       "published_at": "2026-11-14T03:10:18.999251+00:00"
+    },
+    {
+      "slot": "2026-11-14-11",
+      "post_id": 40,
+      "source": "Google Новости",
+      "title": "В Екатеринбурге в многоэтажке произошел пожар в электрощитовой, жильцы эвакуированы - incidentia.ru",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWNlNHJDX3BGQlZkVHJuOWNUeHNIaUVNYWNNR2E1WVo5VC1IVXBKZ3VXUExrSUlUakRYandPQnNFUkwtNHBHY0xvcU9oUTBfazYzTVpaRGVFRVYtdDRuSTZSSVJKVXdHai1DUUptazk2Y2FBYTVaN3A2X2J0V3RXZ3FIamNGZGxzTzFOTXJSSQ?oc=5",
+      "text": "⚠️ Народ, в Екатеринбурге в многоэтажке произошел пожар в электрощитовой, жильцы эвакуированы.",
+      "published_at": "2026-11-14T04:04:08.898731+00:00"
     }
   ],
   "used_links": [
@@ -390,7 +399,8 @@
     "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KVDdvc293bFdSa3pfZXFlWlNIbzNwS1BrdmM5NFYzS2diN3h1eHI5cjJfYVM2azlvb2MzcFVSYW5ueUo2ZFFuLXdTVjd4MVVQVHc2dGtDZk93S2VtdVdjSzI2dmFnS0hOQjUzOFVBTEVMbnM2",
     "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0U5WTZYVVhneHUtNGpkOFpGTzY3UGFVUjhtU3RLYWxkUnBwTmdPS2hKRWVLZWNQbGtyWXFGUmE2MHBKcFJydy12VUZQcGpUb0NiUUNHUXg1SGtSNzRIR1ZGaGROTkZwYmkzcklrLVJETnQyQUFHMjVpTzg2NzZRd0R6Y3hUcGR4Qkc2QWJzRjVKRGpQQTJyZF9VME5LdHI4UjNVdUtFMV95ZzNYRVE",
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfQ1k3LUJvSHdsVVNZZEtMMExSWlpJclUwd0IzeGNvLVNmalloR3ZTOG9OdGY4d2pEbWpfbkpCQWtVc0hTNlA0Z05RcDZJUmlxdkUyV1daa2JYMDdYZFNabEl4WkFveEgxc3o5QnZBLU4",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBreHRGeWtJTE92bEc0aW9iZ3dyWTZhMThvaFBuVmRJdEZWdVhHSm1WN0lPNnkwSDNpelVHejVMWGxaSF85cnFPZDBMMjFURmlBeW1IdU4zRm16WXlhc3VvNlF5S0pfUlVEV1VsQjViUHhpdUVU"
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBreHRGeWtJTE92bEc0aW9iZ3dyWTZhMThvaFBuVmRJdEZWdVhHSm1WN0lPNnkwSDNpelVHejVMWGxaSF85cnFPZDBMMjFURmlBeW1IdU4zRm16WXlhc3VvNlF5S0pfUlVEV1VsQjViUHhpdUVU",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWNlNHJDX3BGQlZkVHJuOWNUeHNIaUVNYWNNR2E1WVo5VC1IVXBKZ3VXUExrSUlUakRYandPQnNFUkwtNHBHY0xvcU9oUTBfazYzTVpaRGVFRVYtdDRuSTZSSVJKVXdHai1DUUptazk2Y2FBYTVaN3A2X2J0V3RXZ3FIamNGZGxzTzFOTXJSSQ"
   ],
   "used_tags": [
     "#ЕкатеринбургНаСвязи",
@@ -509,7 +519,10 @@
     "#ЕкатеринбургГородскаяЖизнь",
     "#ЕкатеринбургМаршруты",
     "#ЕкатеринбургОстановки",
-    "#ЕкатеринбургОбщественныйТранспорт"
+    "#ЕкатеринбургОбщественныйТранспорт",
+    "#ЕкатеринбургСводка",
+    "#ЕкатеринбургПроисшествия",
+    "#ЕкатеринбургСлужбы"
   ],
   "skipped_links": [
     "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Zb0RUbWoya0o3d0c4ejFPajYtaTYwWVpfQmJDd0hQLXl1SGhJb1RBVHJXd3N2cThPbkpSRUhHYUZTTFlWNlVzMnFjX0VtOHh6Skh3eGdQTG5YMkF5SnZhSnZpem00SHdiMWxiSGJkYzc",
@@ -524,6 +537,7 @@
     "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSRmxJNmdObVNEQmtqb3QtTE1yLXpjY3djVDVVX2VRMnFoT2k5d2F5VVNGZ0ZOcVlsX0hDVlZfU2NibGpqUEU0YXBXRi1tQdIBWEFVX3lxTFBpNG9pLWp2em9RclJoVlRYRGM3MHBWWG9LeVpDdTcxcDZzNWxoZlFHVnFiUHpGQ2YxSi0xbHhGaGk0SFhCZUc2NG1MQlFWMFFMNWdfNGtZYmI",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0ptaWprR29pMlhxRUw3aWxyX3RmRkhEZDZQZTBuT1Y3SWtPUElwVmlyMGgteWk5cVRzZkhocUJWaXNXeEJlSXQxNG5JcXhwRXprTzZCSFc5a2pHZlUzUjFoS2R0VF9pWWdQMXpXbVNSQ0N5UHdRd1h4X2VHbGJhNVZXeTQzQVlJdTF6TUtUa19QeEs2RTZFLXdfWkpTbktYOUt5OEEtdThMMWVmT0hRUEZtQkpmaEZQUTZnVFlIQUpwSDA",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lSHNBUXkxdUtzS3QtN0N3cF9oaUg5aFlScDEtQUk5c0lwSi1KanV1QmowYWpLTFg3YjQ1Q2R4OE9uQXZWOWdPZlBFQ2wyTHVYdkJERjQxQVRQYkp5OW81NHM2UQ",
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RRHpoU2dCSWVobW1XRi1vY2FBSXgxUDNwUktQSzJocmxrQ2Noa3RmVTVieTBGdGEycU9GOTVJakgwM1hKdnExQmtVLVZ4UDlobFV2NUdIcUMydzdPaV96X3Z1dGRGeEZjdmM4WkhVX08"
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RRHpoU2dCSWVobW1XRi1vY2FBSXgxUDNwUktQSzJocmxrQ2Noa3RmVTVieTBGdGEycU9GOTVJakgwM1hKdnExQmtVLVZ4UDlobFV2NUdIcUMydzdPaV96X3Z1dGRGeEZjdmM4WkhVX08",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE81YkN0czgyWlhRQTJnVWpjZHVaNmFnUnBkb0pxM1I3c1FqZGltODR5aWtaUl9scmFqVkI5NFdSZmpQc0Y3V2FVZXRTbGpHZmpMUXNxTXZBN3ZleDJiZ3pmUEI3bHk5dk9GM0pJSWtHeFU"
   ]
 }
